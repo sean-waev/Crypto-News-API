@@ -3,11 +3,11 @@
 NestJS + mongoDB backend and middleware for forum website in the style of Y Combinator's Hacker News focused on cryptocurrency and web3/blockchain technology. Users login with ETH wallet to post and comment on news stories.
 <br />
 <br />
-<br />
 API hosted on heroku: https://crypto-api-3-6bf97d4979d1.herokuapp.com/
 <br />
 Web app link: https://main.d3pxlmup85yuv5.amplifyapp.com/
-
+<br />
+<br />
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
